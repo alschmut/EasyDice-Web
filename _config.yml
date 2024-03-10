@@ -37,10 +37,10 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Multiple dices
-    description                           : Use one to six dices at once
-    fontawesome_icon_name                 : dice-three
+    description                           : Roll one to six dices at once
+    fontawesome_icon_name                 : dice
     
-  - title                                 : Use dices from D2 up to D100
+  - title                                 : Dice Types
     description                           : Choose one of many supported dice types D2, D4, D6, D8, D10, D12, D20, D100
     fontawesome_icon_name                 : dice-d20
 
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Apple Watch
     description                           : Supports Apple Watch with up to 4 dices
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : apple-whole
   
   - title                                 : VoiceOver
     description                           : VoiceOver can tell you the dice sum in your language
