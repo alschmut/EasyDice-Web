@@ -91,8 +91,9 @@ If you need to, you can create additional markdown based pages just by creating 
 **Please note:** The Privacy Policy and Changelog provided are written using dummy text, so please adapt each of them for your own app.
 You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
 
-
-
+### Test via localhost
+- Install all dependencies via `bundle install`
+- Build and run the webpage on your localhost via `bundle exec jekyll serve`.
 
 ## Feedback
 If you have feedback regarding bugs or improvements, open an issue, @ me on Twitter or write me an email. You can find my contact info on my website.
