@@ -41,7 +41,7 @@ features                                  :
     fontawesome_icon_name                 : dice-three
     
   - title                                 : Use dices from D2 up to D100
-    description                           : Choose one of many supported dice types: D2, D4, D6, D8, D10, D12, D20, D100
+    description                           : Choose one of many supported dice types D2, D4, D6, D8, D10, D12, D20, D100
     fontawesome_icon_name                 : dice-d20
 
   - title                                 : Touch to roll
