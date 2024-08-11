@@ -18,8 +18,11 @@ All apps made by Alexander Schmutz do not collect any personally identifiable in
 
 Link to privacy policy of third party service providers used by some of our apps:
 
-[Google AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-[AppCenter](https://privacy.microsoft.com/en-us/privacystatement)
+- [Google AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+- [AppCenter](https://privacy.microsoft.com/en-us/privacystatement)
+- [Sentry](https://sentry.io/privacy/)
+- [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+
 
 ## Service Providers
 
